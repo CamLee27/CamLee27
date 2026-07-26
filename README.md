@@ -48,6 +48,16 @@ The project gave me hands-on experience with authentication issues, access-contr
 
 ---
 
+### 🏀 [Sports League SQL Database](https://github.com/CamLee27/sports-league-sql-database)
+
+Created a relational MySQL database for a fictional basketball league. The database uses seven connected tables to organize divisions, conferences, locations, teams, players, positions, and career statistics.
+
+I preserved the original college project and later added an entity-relationship diagram and demonstration queries using joins, grouping, calculations, and subqueries.
+
+**Skills:** MySQL, SQL, relational database design, primary keys, foreign keys, joins, data modeling
+
+---
+
 ### 🌐 [AWS VPC Networking Lab](REPLACE_WITH_AWS_VPC_PROJECT_LINK)
 
 Created an AWS virtual network containing public and private resources.
@@ -55,16 +65,6 @@ Created an AWS virtual network containing public and private resources.
 I configured subnets, routing tables, an internet gateway, security groups, and restricted database access so that the database could only be reached by the authorized web server.
 
 **Skills:** AWS VPC, cloud networking, subnets, routing, security groups, network security
-
----
-
-### 📊 [SQL Sports League and Video Game Database](REPLACE_WITH_SQL_PROJECT_LINK)
-
-Designed and created a relational SQL database for organizing information related to a sports league and video game.
-
-I created tables, relationships, queries, and a structured data model that could be used to organize and retrieve information.
-
-**Skills:** SQL, relational databases, database design, data modeling, queries
 
 ## Additional Projects
 
