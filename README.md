@@ -91,7 +91,7 @@ Technical documentation, project leadership, client communication, teamwork, pro
 
 I graduated **Summa Cum Laude** from Millikin University with a Bachelor of Science in Cybersecurity and Management Information Systems and a minor in Entrepreneurship.
 
-Outside of technology, I competed as a collegiate wrestler for four years and earned Scholar All-American and All-Conference recognition.
+Outside of technology, I competed as a collegiate wrestler for four years and earned Scholar All-American, All-Conference, and more.
 
 My experience as an athlete and coach has helped me develop discipline, leadership, communication, accountability, and the ability to stay composed while solving problems.
 
