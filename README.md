@@ -54,7 +54,7 @@ This project helped me understand that vulnerability management is a continuous 
 
 ---
 
-### 🔐 [Information Systems Security Policy Framework](https://github.com/CamLee27/information-systems-security-policy-framework)
+### 🔐 [Information Systems Security Policy Framework (ISSP)](https://github.com/CamLee27/information-systems-security-policy-framework)
 
 Developed an Information Systems Security Policy framework for Swift, a fictional student transportation platform, during my Introduction to Information Security course.
 
