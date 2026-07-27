@@ -54,6 +54,16 @@ This project helped me understand that vulnerability management is a continuous 
 
 ---
 
+### 🔐 [Information Systems Security Policy Framework](https://github.com/CamLee27/information-systems-security-policy-framework)
+
+Developed an Information Systems Security Policy framework for Swift, a fictional student transportation platform, during my Introduction to Information Security course.
+
+I documented security governance, organizational responsibilities, risk management, data classification, incident response, access control, system security, vulnerability management, backups, logging, and compliance considerations. I later reorganized the original coursework into structured GitHub documentation and separated the original project from future improvement ideas.
+
+**Skills:** Security governance, GRC, risk management, security policy development, data classification, incident-response planning, access control, vulnerability-management planning, compliance awareness
+
+---
+
 ### 🏀 [Sports League SQL Database](https://github.com/CamLee27/sports-league-sql-database)
 
 Created a relational MySQL database for a fictional basketball league as one of my first college database projects.
