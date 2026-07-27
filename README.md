@@ -2,9 +2,9 @@
 
 I'm a Cybersecurity and Management Information Systems graduate from Millikin University with a minor in Entrepreneurship.
 
-I enjoy working with technology, troubleshooting problems, and learning how systems work behind the scenes. My experience includes cybersecurity labs, cloud infrastructure, networking, databases, web development, automation, and hands-on IT support.
+I enjoy troubleshooting problems, learning how systems work behind the scenes, and building projects that give me practical experience. My background includes cybersecurity labs, cloud infrastructure, networking, databases, web development, automation, and hands-on IT support.
 
-I am currently gaining experience supporting technology in a manufacturing environment while continuing to build my cybersecurity and technical skills.
+I am currently gaining experience supporting technology in a manufacturing environment while continuing to develop my cybersecurity and technical skills.
 
 ## About Me
 
@@ -14,17 +14,34 @@ I am currently gaining experience supporting technology in a manufacturing envir
 - 🖥️ Interested in cybersecurity, IT infrastructure, networking, and system administration
 - 🔐 Long-term goal: ethical hacking and penetration testing
 - 🤼 Former collegiate wrestler and current wrestling coach
-- 🛠️ I enjoy building projects that solve problems and give me hands-on experience
+- 🛠️ I enjoy projects that let me troubleshoot, test ideas, and understand how technology works
 
 ## Featured Projects
 
-### ☁️ [Cloud-Based Website and Email System](REPLACE_WITH_CLOUDFLARE_PROJECT_LINK)
+### 🧃 [OWASP Juice Shop Ethical Hacking Lab](https://github.com/CamLee27/owasp-juice-shop-ethical-hacking-lab)
 
-Built and deployed a cloud-based website using AWS, Cloudflare, and Resend. I configured the domain, DNS records, website hosting, HTTPS protection, email delivery, and security controls.
+Completed a time-boxed ethical hacking assessment using OWASP Juice Shop during my college Ethical Hacking course.
 
-This project helped me understand how several cloud services can work together to host, protect, and support a real website.
+In approximately one to two hours, I successfully demonstrated chatbot prompt manipulation and cross-site scripting. I also attempted SQL injection, directory discovery, and ICMP traffic testing while documenting my results, limitations, and recommended security controls.
 
-**Skills:** AWS, Cloudflare, DNS, HTTPS, web hosting, email infrastructure, security
+This project helped me practice working under a deadline, separating confirmed findings from assumptions, collecting evidence, and explaining how vulnerabilities could be reduced.
+
+**Skills:** OWASP Juice Shop, web application security, XSS testing, AI security, SQL injection testing, Kali Linux, vulnerability documentation
+
+---
+
+### ☁️ [Cloud-Based Website and Email System](https://camcareer.com)
+
+Implemented and customized a cloud-based personal website using AWS, Cloudflare, and Resend.
+
+I configured website hosting, domain and DNS records, HTTPS protection, email delivery, traffic analytics, and security controls. The project helped me understand how multiple services can work together to host, protect, and support a live website.
+
+**Skills:** AWS, Cloudflare, DNS, HTTPS, web hosting, email infrastructure, analytics, security
+
+<!--
+The title currently links to the live website.
+Replace it with the GitHub repository link later if preferred.
+-->
 
 ---
 
@@ -34,79 +51,41 @@ Created a Windows 10 virtual lab and used Nessus Essentials to compare uncredent
 
 I installed outdated software to simulate increased security risk, reviewed the findings, removed the vulnerable software, applied Windows updates, and scanned the system again to verify improvement.
 
-**Skills:** Nessus, VMware, Windows administration, vulnerability scanning, patch management, remediation
+This project helped me understand that vulnerability management is a continuous process of scanning, prioritizing, remediating, and validating fixes.
 
----
-
-### 🛡️ [Web Application Security Testing](REPLACE_WITH_WEB_SECURITY_PROJECT_LINK)
-
-Tested a deliberately vulnerable web application and identified multiple security weaknesses.
-
-The project gave me hands-on experience with authentication issues, access-control weaknesses, input validation, application testing, and documenting security findings.
-
-**Skills:** Web application security, vulnerability testing, ethical hacking, security analysis
+**Skills:** Nessus, VMware, Windows administration, vulnerability scanning, patch management, remediation validation
 
 ---
 
 ### 🏀 [Sports League SQL Database](https://github.com/CamLee27/sports-league-sql-database)
 
-Created a relational MySQL database for a fictional basketball league. The database uses seven connected tables to organize divisions, conferences, locations, teams, players, positions, and career statistics.
+Created a relational MySQL database for a fictional basketball league as one of my first college database projects.
 
-I preserved the original college project and later added an entity-relationship diagram and demonstration queries using joins, grouping, calculations, and subqueries.
+The database uses seven connected tables to organize divisions, conferences, states, teams, players, positions, and career statistics. I preserved the original project and later added an entity-relationship diagram, MySQL Workbench screenshots, and demonstration queries using joins, grouping, calculations, and subqueries.
 
 **Skills:** MySQL, SQL, relational database design, primary keys, foreign keys, joins, data modeling
-
----
-
-### 🌐 [AWS VPC Networking Lab](REPLACE_WITH_AWS_VPC_PROJECT_LINK)
-
-Created an AWS virtual network containing public and private resources.
-
-I configured subnets, routing tables, an internet gateway, security groups, and restricted database access so that the database could only be reached by the authorized web server.
-
-**Skills:** AWS VPC, cloud networking, subnets, routing, security groups, network security
-
-## Additional Projects
-
-- 🚨 **[DDoS Attack and Defense Project](REPLACE_WITH_DDOS_PROJECT_LINK)**  
-  Explored how denial-of-service attacks affect systems and networks, along with methods used to detect and reduce their impact.
-
-- 🦠 **[Malware Threat Analysis](REPLACE_WITH_MALWARE_PROJECT_LINK)**  
-  Examined common types of malware, how they spread, the damage they can cause, and the security practices used to defend against them.
-
-- 📡 **[Network Scanning and Enumeration Lab](REPLACE_WITH_NETWORK_SCANNING_PROJECT_LINK)**  
-  Used network-scanning tools to identify devices, open ports, running services, and possible security concerns.
-
-- 🌍 **[AWS S3 Static Website](REPLACE_WITH_S3_PROJECT_LINK)**  
-  Hosted and configured a static website using Amazon S3 and practiced cloud storage, permissions, and website deployment.
-
-- 🖥️ **[Web Development and Server Administration](REPLACE_WITH_WEB_SERVER_PROJECT_LINK)**  
-  Built and managed a website while practicing server setup, configuration, maintenance, and troubleshooting.
-
-- 🔌 **[Network Design and Configuration](REPLACE_WITH_NETWORK_PROJECT_LINK)**  
-  Designed and configured a functional network using common networking equipment, addressing, and connectivity concepts.
 
 ## Technical Skills
 
 ### Cybersecurity
 
-Vulnerability management, Nessus, network scanning, SIEM fundamentals, web application security, risk analysis, patch management, and remediation validation
+Web application security, vulnerability management, Nessus, network scanning, SIEM fundamentals, XSS testing, SQL injection testing, risk analysis, patch management, and remediation validation
 
 ### Systems and Networking
 
-Windows, Linux, Active Directory, VMware, TCP/IP, DNS, subnetting, hardware support, and technical troubleshooting
+Windows, Linux, Active Directory, VMware, TCP/IP, DNS, subnetting, hardware and software support, and technical troubleshooting
 
-### Cloud and Infrastructure
+### Cloud and Web Infrastructure
 
-AWS, Amazon S3, EC2, VPC networking, Cloudflare, DNS configuration, and web hosting
+AWS, Amazon S3, EC2, VPC networking, Cloudflare, DNS configuration, HTTPS, Resend, web hosting, HTML, CSS, and JavaScript
 
-### Development and Data
+### Data and Automation
 
-HTML, CSS, JavaScript, SQL, Python fundamentals, relational databases, and data modeling
+SQL, MySQL, relational database design, data modeling, Power Automate, web scraping, and Python fundamentals
 
 ### Professional Skills
 
-Technical documentation, project leadership, client communication, teamwork, problem-solving, and process improvement
+Technical documentation, project leadership, client communication, teamwork, problem-solving, time management, and process improvement
 
 ## Education and Leadership
 
@@ -124,13 +103,77 @@ My long-term goal is to move into an ethical hacking or penetration-testing role
 
 ## Connect With Me
 
-- 💼 [LinkedIn](REPLACE_WITH_LINKEDIN_LINK)
-- 🌐 [Personal Website](REPLACE_WITH_WEBSITE_LINK)
+- 💼 [LinkedIn](https://www.linkedin.com/in/camlee27)
+- 🌐 [Personal Website](https://camcareer.com)
 
 <!--
 ============================================================
-SECTIONS TO ADD LATER
-These sections are hidden from the normal profile page.
+PROJECTS TO ADD WHEN THEIR REPOSITORIES ARE READY
+These sections are hidden from the public profile.
+============================================================
+
+## Additional Projects
+
+### 🌐 [AWS VPC Networking Lab](REPLACE_WITH_AWS_VPC_PROJECT_LINK)
+
+Created an AWS virtual network containing public and private resources.
+
+I configured subnets, routing tables, an internet gateway, security groups, and restricted database access so the database could only be reached by the authorized web server.
+
+**Skills:** AWS VPC, cloud networking, subnets, routing, security groups, network security
+
+---
+
+### 🚨 [DDoS Attack and Defense Project](REPLACE_WITH_DDOS_PROJECT_LINK)
+
+Explored how denial-of-service attacks affect systems and networks, along with methods used to detect and reduce their impact.
+
+**Skills:** Network security, traffic analysis, Wireshark, firewalls, traffic monitoring
+
+---
+
+### 🦠 [Malware Threat Analysis](REPLACE_WITH_MALWARE_PROJECT_LINK)
+
+Examined common types of malware, how they spread, the damage they can cause, and security practices used to defend against them.
+
+**Skills:** Malware analysis, threat research, endpoint security, security documentation
+
+---
+
+### 📡 [Network Scanning and Enumeration Lab](REPLACE_WITH_NETWORK_SCANNING_PROJECT_LINK)
+
+Used network-scanning tools to identify devices, open ports, running services, and possible security concerns.
+
+**Skills:** Network scanning, enumeration, Nmap, service discovery, security analysis
+
+---
+
+### 🌍 [AWS S3 Static Website](REPLACE_WITH_S3_PROJECT_LINK)
+
+Hosted and configured a static website using Amazon S3 and practiced cloud storage, permissions, and website deployment.
+
+**Skills:** AWS S3, static hosting, cloud permissions, web deployment
+
+---
+
+### 🖥️ [Web Development and Server Administration](REPLACE_WITH_WEB_SERVER_PROJECT_LINK)
+
+Built and managed a website while practicing server setup, configuration, maintenance, and troubleshooting.
+
+**Skills:** Web development, server administration, HTML, CSS, troubleshooting
+
+---
+
+### 🔌 [Network Design and Configuration](REPLACE_WITH_NETWORK_PROJECT_LINK)
+
+Designed and configured a functional network using common networking equipment, addressing, and connectivity concepts.
+
+**Skills:** Network design, IP addressing, routing, connectivity, troubleshooting
+-->
+
+<!--
+============================================================
+OTHER SECTIONS TO ADD LATER
 Do not place private information, passwords, or tokens here.
 ============================================================
 -->
@@ -164,7 +207,7 @@ Examples:
 - Build additional penetration-testing projects
 - Gain more experience with Linux
 - Improve scripting and automation skills
-- Add more detailed documentation and evidence to older projects
+- Add detailed documentation and evidence to older projects
 -->
 
 <!--
