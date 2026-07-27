@@ -64,7 +64,7 @@ Created a relational MySQL database for a fictional basketball league as one of 
 The database uses seven connected tables to organize divisions, conferences, states, teams, players, positions, and career statistics. I preserved the original project and later added an entity-relationship diagram, MySQL Workbench screenshots, and demonstration queries using joins, grouping, calculations, and subqueries.
 
 **Skills:** MySQL, SQL, relational database design, primary keys, foreign keys, joins, data modeling
-
+ 
 ## Technical Skills
 
 ### Cybersecurity
