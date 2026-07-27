@@ -30,18 +30,15 @@ This project helped me practice working under a deadline, separating confirmed f
 
 ---
 
-### ☁️ [CloudFlare Visitor Reporting System](https://github.com/CamLee27/cloudflare-visitor-reporting-system.git)
+### 🌐 [AWS VPC Networking Lab](https://github.com/CamLee27/aws-vpc-networking-lab)
 
-Implemented and customized a cloud-based personal website using AWS, Cloudflare, and Resend.
+Built and documented an AWS network containing public and private subnets, an EC2 Linux instance, a private MySQL server, an internet gateway, route tables, and security groups.
 
-I configured website hosting, domain and DNS records, HTTPS protection, email delivery, traffic analytics, and security controls. The project helped me understand how multiple services can work together to host, protect, and support a live website.
+I troubleshot failed connectivity by adding an internet route, allowing outbound HTTPS traffic for package installation, and limiting MySQL traffic to the private database server. I then connected to the database from the EC2 instance, ran SQL queries, documented the CIDR ranges, and created an AWS network architecture diagram.
 
-**Skills:** AWS, Cloudflare, DNS, HTTPS, web hosting, email infrastructure, analytics, security
+This project helped me better understand how routing, ports, security groups, and subnet design work together inside an AWS VPC.
 
-<!--
-The title currently links to the live website.
-Replace it with the GitHub repository link later if preferred.
--->
+**Skills:** AWS VPC, Amazon EC2, public and private subnets, route tables, internet gateways, security groups, CIDR notation, Linux, MySQL connectivity, network troubleshooting
 
 ---
 
@@ -63,8 +60,18 @@ Created a relational MySQL database for a fictional basketball league as one of 
 
 The database uses seven connected tables to organize divisions, conferences, states, teams, players, positions, and career statistics. I preserved the original project and later added an entity-relationship diagram, MySQL Workbench screenshots, and demonstration queries using joins, grouping, calculations, and subqueries.
 
-**Skills:** MySQL, SQL, relational database design, primary keys, foreign keys, joins, data modeling
- 
+**Skills:** MySQL, SQL, relational database design, primary keys, foreign keys, joins, subqueries, data modeling
+
+---
+
+### ☁️ [Cloudflare Visitor Reporting System](https://github.com/CamLee27/cloudflare-visitor-reporting-system)
+
+Built and integrated a visitor reporting system for my personal website using AWS, Cloudflare, and Resend.
+
+I configured website hosting, domain and DNS records, HTTPS protection, visitor analytics, automated email reporting, and security controls. The project helped me understand how several cloud services can work together to host, protect, monitor, and support a live website.
+
+**Skills:** AWS, Cloudflare, Resend, DNS, HTTPS, web hosting, email infrastructure, analytics, security
+
 ## Technical Skills
 
 ### Cybersecurity
@@ -91,7 +98,7 @@ Technical documentation, project leadership, client communication, teamwork, pro
 
 I graduated **Summa Cum Laude** from Millikin University with a Bachelor of Science in Cybersecurity and Management Information Systems and a minor in Entrepreneurship.
 
-Outside of technology, I competed as a collegiate wrestler for four years and earned Scholar All-American, All-Conference, and more.
+Outside of technology, I competed as a collegiate wrestler for four years and earned Scholar All-American, All-Conference, Regional Placer, and multiple top-three tournament finishes.
 
 My experience as an athlete and coach has helped me develop discipline, leadership, communication, accountability, and the ability to stay composed while solving problems.
 
@@ -113,16 +120,6 @@ These sections are hidden from the public profile.
 ============================================================
 
 ## Additional Projects
-
-### 🌐 [AWS VPC Networking Lab](REPLACE_WITH_AWS_VPC_PROJECT_LINK)
-
-Created an AWS virtual network containing public and private resources.
-
-I configured subnets, routing tables, an internet gateway, security groups, and restricted database access so the database could only be reached by the authorized web server.
-
-**Skills:** AWS VPC, cloud networking, subnets, routing, security groups, network security
-
----
 
 ### 🚨 [DDoS Attack and Defense Project](REPLACE_WITH_DDOS_PROJECT_LINK)
 
