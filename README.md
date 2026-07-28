@@ -76,6 +76,18 @@ I documented security governance, organizational responsibilities, risk manageme
 
 ---
 
+### 🛡️ [Scapy and iptables Firewall Defense Lab](https://github.com/CamLee27/scapy-iptables-firewall-lab)
+
+Completed the defensive portion of a tutorial-guided Linux firewall lab using Python, Scapy, `tcpdump`, and `iptables`.
+
+I monitored incoming TCP SYN traffic, manually created and removed firewall rules, configured a Python virtual environment, installed Scapy, and ran the supplied firewall automation script. I also analyzed how the script tracked repeated activity, temporarily blocked source IP addresses, and removed firewall rules after the configured duration. :contentReference[oaicite:0]{index=0}
+
+The repository clearly credits the original tutorial and code author while documenting the defensive setup, dependency troubleshooting, testing, code behavior, technical limitations, and possible improvements that I personally completed. My original notes confirm that I used my own VM and completed the defender side rather than recreating the tutorial’s full attacker environment. :contentReference[oaicite:1]{index=1}
+
+**Skills:** Linux, Python, Scapy, tcpdump, iptables, TCP/IP, SYN packet analysis, firewall administration, Python virtual environments, dependency troubleshooting, network defense, code analysis
+
+---
+
 ### 🏀 [Sports League SQL Database](https://github.com/CamLee27/sports-league-sql-database)
 
 Created a relational MySQL database for a fictional basketball league as one of my first college database projects.
