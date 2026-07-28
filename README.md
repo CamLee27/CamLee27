@@ -98,7 +98,7 @@ I configured website hosting, domain and DNS records, HTTPS protection, visitor 
 
 ### Cybersecurity
 
-Web application security, vulnerability management, Nessus, network scanning, SIEM fundamentals, XSS testing, SQL injection testing, risk analysis, patch management, and remediation validation
+Web application security, vulnerability management, Nessus, Elastic SIEM, security monitoring, log analysis, endpoint telemetry, detection rules, network scanning, XSS testing, SQL injection testing, security governance, risk management, incident-response planning, access control, patch management, and remediation validation
 
 ### Systems and Networking
 
