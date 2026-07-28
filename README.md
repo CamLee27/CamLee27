@@ -54,6 +54,18 @@ This project helped me understand that vulnerability management is a continuous 
 
 ---
 
+### 🔍 [Elastic SIEM Home Lab](https://github.com/CamLee27/elastic-siem-home-lab)
+
+Completed a tutorial-guided Elastic SIEM home lab using Elastic Cloud, a Kali Linux virtual machine, Elastic Agent, and Elastic Defend.
+
+I configured endpoint telemetry collection, generated activity using `nmap` and Linux commands, searched process logs, created an event-count dashboard, built a custom detection rule for scan-related activity, and completed an email-alert testing workflow.
+
+The repository credits the original tutorial and documents the limitations of the surviving evidence, including the lack of preserved screenshots and quantitative metrics.
+
+**Skills:** Elastic SIEM, Elastic Agent, Elastic Defend, Kali Linux, log analysis, endpoint telemetry, dashboards, detection rules, alerting, Nmap, security monitoring
+
+---
+
 ### 🔐 [Information Systems Security Policy Framework (ISSP)](https://github.com/CamLee27/information-systems-security-policy-framework)
 
 Developed an Information Systems Security Policy framework for Swift, a fictional student transportation platform, during my Introduction to Information Security course.
