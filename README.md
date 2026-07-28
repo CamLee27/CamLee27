@@ -1,4 +1,4 @@
-# Hi, I'm Cam! 👋
+# What's Up, I'm Cam! 👋😎
 
 I'm a Cybersecurity and Management Information Systems graduate from Millikin University with a minor in Entrepreneurship.
 
